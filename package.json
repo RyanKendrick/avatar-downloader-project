@@ -1,0 +1,23 @@
+{
+  "name": "avatar-downloader-project",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanKendrick/avatar-downloader-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanKendrick/avatar-downloader-project/issues"
+  },
+  "homepage": "https://github.com/RyanKendrick/avatar-downloader-project#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
