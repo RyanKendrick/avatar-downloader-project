@@ -42,9 +42,9 @@ getRepoContributors(repoOwner, repoName, function(err, result) {
 function downloadImageByURL(url, filePath) {
   request(url).pipe(fs.createWriteStream(filePath))
 
-}
+};
 
-// downloadImageByURL("https://avatars2.githubusercontent.com/u/2741?v=3&s=466", "avatars/kvirani.jpg")
+
 
 
 
